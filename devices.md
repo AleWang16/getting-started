@@ -48,6 +48,9 @@ This system uses a geometric, torque reversal latch and a four bar linkage that 
 ![](images/ms_robot.PNG)
 ##### In panel C, the points abcd form a four bar linkage and the unstable motion of point c around point b acts as a latch.
 
+Steinhardt et al. divided the striking moment of the robot into four phases respectively (2021).  The first two phases represent the unlatching and spring compression phase, with phase I and II taking 1.0 seconds and 0.8 seconds, respectively (Steinhardt et al. 2021).  The third and four phase have times similar 
+to the striking times similar to that of the mantis shrimp, although the times were about ten to one hundred times slower for the robot (compare 66 ms to 0.5 ms in phase III and 4.1 ms to 0.3 ms in phase IV) (Steinhardt et al. 2021).
+
 [Here is a video showing the robot in action.](images/mantis_shrimp_physical_model.MP4)
 
 [Steinhardt et al PNAS 2021](https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view?usp=sharing){:target="_blank"}
