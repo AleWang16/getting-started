@@ -316,7 +316,7 @@ For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.n
 <summary> Appendage strike 
    </summary>
 
-Mantis Shrimp, while technically neither a mantis nor a shrimp, are actually another type of crustaceans more technically known as stomatopods. Mantis Shrimp, though only a few inches in length, use Latch Mediated Spring Actuation to fire off deadly punches to protect their territory and hunt prey. Their punches are so strong, they have even been know to break the masks of divers who get too close to their dens. However, these strikes are more commonly used to [break through the shells and exoskeletons of their prey](https://youtu.be/E0Li1k5hGBE?t=129). The force of their strike is enough to produce what is known as a [cavitation bubble](https://journals.biologists.com/jeb/article/208/19/3655/15838/Extreme-impact-and-cavitation-forces-of-a). Inside these bubbles, the pressure is so low that the water vaporizes. When these bubbles collapse, they emit energy underwater in the form of heat, light, and sound. 
+Mantis Shrimp, while technically neither a mantis nor a shrimp, are actually another type of crustaceans more technically known as stomatopods. Mantis Shrimp, though only a few inches in length, use Latch Mediated Spring Actuation to fire off deadly punches to protect their territory and hunt prey. Their punches are so strong, they have even been know to break the masks of divers who get too close to their dens. However, these strikes are more commonly used to [break through the shells and exoskeletons of their prey](https://youtu.be/E0Li1k5hGBE?t=129). The force of their strike is enough to produce what is known as a [cavitation bubble](https://journals.biologists.com/jeb/article/208/19/3655/15838/Extreme-impact-and-cavitation-forces-of-a). Inside these bubbles, the pressure is so low that the water vaporizes. When these bubbles collapse, they emit energy underwater in the form of heat, light, and sound, producing shock waves strong enough to break motor propellers (Patek & Caldwell, 2005). 
 
 #### Types of Mantis Shrimp
 When looking at the anatomy of Mantis Shrimp, we see that the appendages they use to punch can be categorized into two different types: spearers and smashers. The differentiation is in the style of *dactyl*, as shown by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
@@ -332,6 +332,9 @@ For a single spear-type female of the species *Coronis scolopendra* the followin
 | Max. Linear Acceleration | 2500 - 5300 m/$$s^2$$ |
 
 For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
+   
+#### Arm Appendage Mechanism
+The arm of a mantis shrimp consists of the the striking arm, the body, the saddle, the meral-V, and the merus (Steinheardt et al., 2021).  When the arms loads up, structures called sclerites work as latches to maintain the striking arm in place (Steinheardt et al., 2021).  When striking, the meral-V and the saddle act as a spring and pull back on the body-striking appendage system.  The striking arm unlatches while the meral-V and saddle continue to compress (Steinheardt et al., 2021).  Once it is fully compressed, the spring system pushes the body in a counterclockwise motion while the striking arm moves in a clockwise motion (Steinheardt et al., 2021).
    
 </details>
 
