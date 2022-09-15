@@ -338,7 +338,7 @@ The arm of a mantis shrimp consists of the the striking arm, the body, the saddl
  
  #### Sources
    [1] [Patek & Caldwell](https://drive.google.com/drive/u/0/folders/1F2hnaCoew9Vc7x3D0QfBilEX2hniqrmK)
-   [2] [Steinhardt et al.]()https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view
+   [2] [Steinhardt et al.](https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view)
    
 </details>
 
