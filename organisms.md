@@ -334,7 +334,11 @@ For a single spear-type female of the species *Coronis scolopendra* the followin
 For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
    
 #### Arm Appendage Mechanism
-The arm of a mantis shrimp consists of the the striking arm, the body, the saddle, the meral-V, and the merus (Steinheardt et al., 2021).  When the arms loads up, structures called sclerites work as latches to maintain the striking arm in place (Steinheardt et al., 2021).  When striking, the meral-V and the saddle act as a spring and pull back on the body-striking appendage system.  The striking arm unlatches while the meral-V and saddle continue to compress (Steinheardt et al., 2021).  Once it is fully compressed, the spring system pushes the body in a counterclockwise motion while the striking arm moves in a clockwise motion (Steinheardt et al., 2021).
+The arm of a mantis shrimp consists of the the striking arm, the body, the saddle, the meral-V, and the merus (Steinhardt et al., 2021).  When the arms loads up, structures called sclerites work as latches to maintain the striking arm in place (Steinheardt et al., 2021).  When striking, the meral-V and the saddle act as a spring and pull back on the body-striking appendage system.  The striking arm unlatches while the meral-V and saddle continue to compress (Steinhardt et al., 2021).  Once it is fully compressed, the spring system pushes the body in a counterclockwise motion while the striking arm moves in a clockwise motion (Steinhardt et al., 2021).
+ 
+ #### Sources
+   [1] [Patek & Caldwell](https://drive.google.com/drive/u/0/folders/1F2hnaCoew9Vc7x3D0QfBilEX2hniqrmK)
+   [2] [Steinhardt et al.]()https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view
    
 </details>
 
